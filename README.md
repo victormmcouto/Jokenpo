@@ -3,4 +3,4 @@
 
 ## Execução em navegador do arquivo html
 
-![Jogo da Vida](./assets/Jonkenpo.gif)
+![Jogo da Vida](./assets/Jokenpo.gif)
